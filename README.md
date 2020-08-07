@@ -1,13 +1,10 @@
 <p align="center"><img width=50% src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"></p>
 
 <p align="center"> <samp> Hi, my name is Sérgio. I am a software engineering college student who is currently researching optimization. In my repos you'll find projects created using 
+
 ---
 
-## Languages and Tools:
-
-
-<br>
-<table>
+<table align="center">
 <tbody>
 
 <td align="center" width="20%">
