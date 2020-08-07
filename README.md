@@ -17,49 +17,50 @@
 
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
-<img height=65px src="./assets/java.png"> 
+<img height=65px src="https://raw.githubusercontent.com/SergioAlmeidaCiprianoJr/SergioAlmeidaCiprianoJr/c9b64f89b42924125bc843aaba0db66fe96034b8/assets/java.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=65px src="./assets/python3.png"> 
+<img height=65px src="https://raw.githubusercontent.com/SergioAlmeidaCiprianoJr/SergioAlmeidaCiprianoJr/c9b64f89b42924125bc843aaba0db66fe96034b8/assets/python3.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>Firebase</center></b></span> 
-<img height=65px src="./assets/firebase.png"> 
+<img height=65px src="https://raw.githubusercontent.com/SergioAlmeidaCiprianoJr/SergioAlmeidaCiprianoJr/c9b64f89b42924125bc843aaba0db66fe96034b8/assets/firebase.png"> 
 </td>
 
 
 <td align="center" width="20%">
 <span><b><center>Flutter</center></b></span> 
-<img height=65px src="./assets/flutter.png"> 
+<img height=65px src="https://raw.githubusercontent.com/SergioAlmeidaCiprianoJr/SergioAlmeidaCiprianoJr/c9b64f89b42924125bc843aaba0db66fe96034b8/assets/flutter.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Julia</center></b></span> 
-<img height=65px src="./assets/julia-language.png"> 
+<img height=65px src="https://raw.githubusercontent.com/SergioAlmeidaCiprianoJr/SergioAlmeidaCiprianoJr/c9b64f89b42924125bc843aaba0db66fe96034b8/assets/julia-language.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>Docker</center></b></span> 
-<img height=65px src="./assets/docker.png"> 
+<img height=65px src="https://raw.githubusercontent.com/SergioAlmeidaCiprianoJr/SergioAlmeidaCiprianoJr/c9b64f89b42924125bc843aaba0db66fe96034b8/assets/docker.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
-<img height=65px src="./assets/javascript.png"> 
+<img height=65px src="https://raw.githubusercontent.com/SergioAlmeidaCiprianoJr/SergioAlmeidaCiprianoJr/c9b64f89b42924125bc843aaba0db66fe96034b8/assets/javascript.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>HTML</center></b></span> 
-<img height=65px src="./assets/html5.png"> 
+<img height=65px src="https://raw.githubusercontent.com/SergioAlmeidaCiprianoJr/SergioAlmeidaCiprianoJr/c9b64f89b42924125bc843aaba0db66fe96034b8/assets/html5.png"> 
 </td>
 </tr>
+
 
 </tbody>
 </table>
