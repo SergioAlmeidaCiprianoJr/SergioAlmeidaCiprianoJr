@@ -31,8 +31,8 @@
 
 
 <td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/SergioAlmeidaCiprianoJr/SergioAlmeidaCiprianoJr/c9b64f89b42924125bc843aaba0db66fe96034b8/assets/flutter.png"> 
+<span><b><center>Shell Bash</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/SergioAlmeidaCiprianoJr/SergioAlmeidaCiprianoJr/c9b64f89b42924125bc843aaba0db66fe96034b8/assets/shell-bash.png"> 
 </td>
 
 <td align="center" width="20%">
