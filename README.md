@@ -32,7 +32,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Shell Bash</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/SergioAlmeidaCiprianoJr/SergioAlmeidaCiprianoJr/c9b64f89b42924125bc843aaba0db66fe96034b8/assets/shell-bash.png"> 
+<img height=65px src="https://raw.githubusercontent.com/SergioAlmeidaCiprianoJr/SergioAlmeidaCiprianoJr/1d5b1ba2789828761d6875bac71ec360cbd9b2a8/assets/shell-bash.png"> 
 </td>
 
 <td align="center" width="20%">
